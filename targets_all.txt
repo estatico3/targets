@@ -1,2 +1,2 @@
-https://194.85.18.32
-https://194.85.18.31
+https://koronapay.com
+https://api.koronapay.com
